@@ -31,7 +31,7 @@ input {
   border-radius: 40px;
   border-style: none;
   background-color: #cdcdcd;
-  color: red;
+  color: blue;
   position: relative;
   z-index: -1;
 }
@@ -42,8 +42,8 @@ input {
   place-items: center;
   border-radius: 20px;
   margin: auto;
-  background: linear-gradient(to left, #f2709c, #ff9472);
-  box-shadow: 0 3px 3px -5px #f2709c, 0 2px 5px #f2709c;
+  background: linear-gradient(to left, #62a6df, #728cff);
+  box-shadow: 0 3px 3px -5px #62a6df, 0 2px 5px #62a6df;
   color: white;
   position: absolute;
   transition: 1.5s ease 0.3s;
